@@ -24,4 +24,9 @@
 "autoload": {
 "psr-0": { "visualCaptcha": "src/" }
 }
+  "extra": {
+        "branch-alias": {
+            "dev-master": "1.2.x-dev"
+        }
+    }
 }
